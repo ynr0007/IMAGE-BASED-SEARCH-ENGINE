@@ -1,0 +1,14 @@
+python.exe -m pip install --upgrade pip
+pip install PILLOW
+pip install tensorflow
+mkdir static
+under static make sub directories as
+	            mkdir feature, img , uploaded
+copy some images to img folder
+make a new file offline.py
+next feature_extractor.py
+next server.py
+pip install flask
+mkdir templates
+	paste index.html
+
