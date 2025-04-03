@@ -162,6 +162,4 @@ This project is licensed under the **MIT License**.
 
 You are free to use, modify, and distribute this project for personal or commercial purposes with proper attribution.
 
-For full license details, refer to the [LICENSE](LICENSE) file.
-
 
